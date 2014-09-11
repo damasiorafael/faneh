@@ -71,7 +71,7 @@ body.blog {
     background-color: #f5f8fa !important;
 }
 .blog .content-area {
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
 @media (max-width: 991px) {
@@ -994,7 +994,7 @@ fieldset[disabled] .btn-theme.active {
 
 .wide .header,
 .boxed .header > .container {
-    height: 100px;
+    height: 200px;
     background-color: #1e90ff;
     color: #ffffff;
 }
@@ -1007,7 +1007,7 @@ fieldset[disabled] .btn-theme.active {
 }
 
 .logo {float: left;}
-.logo img {height: 49px; margin-top: 25px;}
+.logo img {height: 155px; margin-top: 25px;}
 
 .header,
 .header > .container,
