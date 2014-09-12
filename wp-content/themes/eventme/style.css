@@ -966,7 +966,7 @@ fieldset[disabled] .btn-theme.active {
 
 .wide .header.sticky-header,
 .boxed .header.sticky-header > .container {
-    height: 44px;
+    height: 100px;
     background-color: rgba(30, 144, 255, 0.90);
 }
 
@@ -976,7 +976,7 @@ fieldset[disabled] .btn-theme.active {
 }
 
 .header.sticky-header .logo {line-height: 1;}
-.header.sticky-header .logo img {height: 36px; margin-top: 3px;}
+.header.sticky-header .logo img {height: 90px; margin-top: 3px;}
 @media (max-width: 991px) {
     .header .logo img {height: 36px; margin-top: 3px;}
 }
@@ -3518,7 +3518,7 @@ header.sticky-header div.logo a h3{
 
 
 .blog .sf-menu li > a{
-font-size: 16px;
+font-size: 14px;
 }
 @media (max-width: 991px) {
 	header div.logo a h3{
