@@ -1041,7 +1041,7 @@ fieldset[disabled] .btn-theme.active {
 
 .navigation {
     float: right;
-    margin-top: 300px;
+    margin-top: 75px;
 }
 
 @media (max-width: 991px) {
