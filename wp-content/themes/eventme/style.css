@@ -71,7 +71,7 @@ body.blog {
     background-color: #f5f8fa !important;
 }
 .blog .content-area {
-    padding-top: 200px;
+    padding-top: 168px;
 }
 
 @media (max-width: 991px) {
@@ -1041,7 +1041,7 @@ fieldset[disabled] .btn-theme.active {
 
 .navigation {
     float: right;
-    margin-top: 30px;
+    margin-top: 75px!important;
 }
 
 @media (max-width: 991px) {
