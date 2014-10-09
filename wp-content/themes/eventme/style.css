@@ -111,7 +111,7 @@ body.blog {
 
 .wide .page-section,
 .boxed .page-section > .container {
-    padding-top: 70px;
+    padding-top: 133px;
     padding-bottom: 70px;
     background-color: #ffffff;
 }
@@ -1036,6 +1036,7 @@ fieldset[disabled] .btn-theme.active {
 
 {
     -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
 
@@ -1046,7 +1047,7 @@ fieldset[disabled] .btn-theme.active {
 
 @media (max-width: 991px) {
     .navigation {
-        display: none;
+        display: block;
     }
 }
 
@@ -3225,6 +3226,11 @@ body.rtl h3.widget-title{
 .headingblog {
     padding: 30px 0px 30px 0px;
     text-align: center;
+}
+
+header nav.navigation .nav > li > a{
+    padding: 10px 10px;
+    font-size: 15px;
 }
 
 @media (min-width: 979px) and (max-width: 1200px) {
